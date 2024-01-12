@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thejdev.github.io/hugo-test1/'
 languageCode = 'en-au'
 title = 'jdem test site'
 theme = 'PaperMod'
